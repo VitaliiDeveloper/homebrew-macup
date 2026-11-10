@@ -1,8 +1,8 @@
 class Macup < Formula
   desc "Checks, updates and safe cache cleanup for a developer's Mac"
   homepage "https://github.com/VitaliiDeveloper/macup"
-  url "https://github.com/VitaliiDeveloper/macup/archive/refs/tags/v2.6.1.tar.gz"
-  sha256 "20b1cd5a45d766e040f481f6d13604d034e6a27a1b6756141875ba07ebd3424b"
+  url "https://github.com/VitaliiDeveloper/macup/archive/refs/tags/v2.7.0.tar.gz"
+  sha256 "f575b6dd63cfce746cc27a746fabcffdfcf821acd32084a7a81f94432244118f"
   license "MIT"
 
   depends_on :macos
